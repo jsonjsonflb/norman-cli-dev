@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin": {
+    "norman-cli-dev": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -15,5 +18,6 @@
   ],
   "scripts": {
     "test": "echo \"ERun test from core\""
-  }
+  },
+  "gitHead": "6060a66c04b9e1e5869547ad58150e077a0674e4"
 }

@@ -15,5 +15,6 @@
   ],
   "scripts": {
     "test": "echo \"ERun test from test\""
-  }
+  },
+  "gitHead": "6060a66c04b9e1e5869547ad58150e077a0674e4"
 }
