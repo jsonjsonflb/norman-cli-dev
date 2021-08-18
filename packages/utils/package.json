@@ -1,0 +1,20 @@
+{
+  "name": "@norman-cli-dev/utils",
+  "version": "1.0.0",
+  "description": "norman-cli-dev utils",
+  "author": "norman <jsonjsonflb@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"ERun test from test\""
+  },
+  "dependencies": {}
+}
