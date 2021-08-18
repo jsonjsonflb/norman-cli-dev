@@ -1,6 +1,6 @@
 {
   "name": "@norman-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "norman-cli-dev core",
   "author": "norman <jsonjsonflb@gmail.com>",
   "homepage": "",
@@ -15,6 +15,5 @@
   ],
   "scripts": {
     "test": "echo \"ERun test from core\""
-  },
-  "dependencies": {}
+  }
 }
