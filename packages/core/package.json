@@ -19,5 +19,8 @@
   "scripts": {
     "test": "echo \"ERun test from core\""
   },
-  "gitHead": "6060a66c04b9e1e5869547ad58150e077a0674e4"
+  "gitHead": "5652a746c3580d2650853931adb1272120c115e3",
+  "publishConfig": {
+    "access": "public"
+  }
 }
